@@ -1,0 +1,29 @@
+_repo: Captains-of-the-Civil-War--A-Chronicle-of-the-Blue-and-the-Gray_2649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+description: Chronicles of America series; v. 31
+gutenberg_bookshelf:
+- Children's History
+- US Civil War
+- United States
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Biography'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- GITenberg
+title: 'Captains of the Civil War: A Chronicle of the Blue and the Gray'
+url: http://www.gutenberg.org/ebooks/2649
